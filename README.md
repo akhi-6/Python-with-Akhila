@@ -52,5 +52,8 @@ All student data is entered dynamically by the user and stored in `data.txt`.
 
 # Team Name: CodeTrio
 G.Teja Pravallika
+
 B.Akhila
+
 K.Priya 
+
