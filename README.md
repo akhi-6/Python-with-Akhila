@@ -25,14 +25,11 @@ It follows a clean modular structure using object-oriented programming.
 
 ## 📂 Project Structure
 
-StudentRecord/
+StudentRecord
 │
 ├── main.py 
-
 ├── model.py 
-
 ├── data.txt 
-
 └── README.md 
 
 
@@ -59,5 +56,6 @@ G.Teja Pravallika
 B.Akhila
 
 K.Priya 
+
 
 
