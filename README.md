@@ -28,8 +28,11 @@ It follows a clean modular structure using object-oriented programming.
 StudentRecord/
 │
 ├── main.py 
+
 ├── model.py 
+
 ├── data.txt 
+
 └── README.md 
 
 
@@ -56,4 +59,5 @@ G.Teja Pravallika
 B.Akhila
 
 K.Priya 
+
 
